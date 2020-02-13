@@ -1,0 +1,12 @@
+1-pour installer :
+	install nodeJs et npm sur le pc
+	
+2- pour lancer l'application executez le script "npm start" depuis l'emplacemnt actuel . 
+3-pour utiliser l'application accedez à localhost:3000
+	copiez tout le contenue du fichier de la partie sans modification exactement dans le champ vide
+	la vitesse de simulation est par default 4 ( 1unité == 250ms )
+	click sur simulate_game pour voir le déroulement
+	pause ? / start ? permet de faire une pause et continuer
+	pour refaire tout la simulation actualisez toute la page Web
+
+	
